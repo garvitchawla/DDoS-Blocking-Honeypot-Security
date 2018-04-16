@@ -1,0 +1,14 @@
+
+*************************************************************************************************************
+A SDN Oriented DDoS Blocking Scheme with Honeypot Security Mechanism
+
+Project By: 
+Garvit Chawla
+NUID: 001859169
+Telecommunication Systems Management
+Northeastern University
+
+Project Advisor: Dr. Bhumip Khasnabish
+Experienced Strategist for Cross-Domain Converged Services and Infrastructure Development and Standardization
+*************************************************************************************************************
+
